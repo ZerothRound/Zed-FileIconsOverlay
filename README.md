@@ -6,10 +6,6 @@
 
 让 Windows 资源管理器中由官方 Stable Zed 关联的源码文件显示更细分的文件类型图标，而不是全部显示同一个 Zed 图标。
 
-仓库简介：
-
-> Windows Explorer file-icon overlay for official Stable Zed, using VS Code-style `.ico` assets and per-extension `DefaultIcon` registry entries.
-
 ### 适用范围
 
 - 仅面向 Windows 上的官方 Stable Zed。
@@ -54,10 +50,6 @@ Set-ExecutionPolicy -Scope Process Bypass -Force
 ## English
 
 Show more specific file-type icons in Windows Explorer for source files associated with official Stable Zed, instead of showing the same Zed icon for every associated file.
-
-Repository description:
-
-> Windows Explorer file-icon overlay for official Stable Zed, using VS Code-style `.ico` assets and per-extension `DefaultIcon` registry entries.
 
 ### Scope
 
